@@ -27,3 +27,12 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 * die aktuelle Version des Experiments (Stand: 27.11.25, *noch nicht aktuell*) findet ihr hier auf GitHub
 
 * sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "name")
+
+
+
+
+# Was gibt es hier sonst noch zu sehen?
+* TODO: Ordner hinzufügen
+* Probandendateien
+* Datensatz
+* etc

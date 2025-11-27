@@ -13,6 +13,7 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 * Nicht vergessen, den Probanden eine Probandennummer zuzuweisen
 
 * Zur Orientierung (Probandennummern):
+
 | Wer? | Wie viele? | Probandennummern |
 ---|---|---|
 | Jasmin | min. 10 Personen | 1000 - 1999 |

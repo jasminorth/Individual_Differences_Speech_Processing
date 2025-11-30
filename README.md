@@ -5,7 +5,7 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 ## LexTALE-Test (Erfassung des englischen Wortschatzniveaus)
 
 * Zum LexTALE-Test: https://www.lextale.com/takethetest.html
-* Nicht vergessen, sich das finale Ergebnis aufzuschreiben
+> Nicht vergessen, sich das finale Ergebnis aufzuschreiben
   $\to$ diese Zahl wird später im Fragebogen abgefragt!
 
 ## Fragebogen (Demographische Daten & Sprachhintergrund)

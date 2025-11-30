@@ -5,14 +5,15 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 ## LexTALE-Test (Erfassung des englischen Wortschatzniveaus)
 
 * Zum LexTALE-Test: https://www.lextale.com/takethetest.html
-> Nicht vergessen, sich das finale Ergebnis aufzuschreiben
+> Nicht vergessen, sich das finale Ergebnis aufzuschreiben \
   $\to$ diese Zahl wird später im Fragebogen abgefragt!
 
 ## Fragebogen (Demographische Daten & Sprachhintergrund)
 * Zum Fragebogen: https://survey.ifkw.lmu.de/valence_l1_english/
-* Nicht vergessen, den Probanden eine Probandennummer zuzuweisen
+> Nicht vergessen, den Probanden eine Probandennummer zuzuweisen \
+  $\to$ diese Zahl wird später im Fragebogen abgefragt!
 
-* Zur Orientierung (Probandennummern):
+* Zur Orientierung (*Probandennummern*):
 
 | Wer? | Wie viele? | Probandennummern |
 ---|---|---|
@@ -26,7 +27,7 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 * Experiment durchführen
 * die aktuelle Version des Experiments (Stand: 27.11.25, *noch nicht aktuell*) findet ihr hier auf GitHub
 
-* sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "name")
+> sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "name")
 
 
 

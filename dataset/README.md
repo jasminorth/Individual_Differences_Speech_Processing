@@ -51,8 +51,7 @@ Jasmin used the ARC nonword database from Macquarie University (Sydney-Australia
 * only orthographically existing bodies \
  with a maximum length of 7 characters.
 
-
-The resulting nonwords were then also manually checked to ensure that all aforementioned conditions were met.
+Both were combined and the resulting nonwords were then also manually checked to ensure that all aforementioned conditions were met.
 
 # Statistical Testing of the dataset
 todo

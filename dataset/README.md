@@ -8,6 +8,7 @@ todo
 * code dataset creation
 * statistical check dataset ??
 
+> Note: i still have to make this all pretty, but i started collecting all the info :)
 
 # Dataset creation
 The dataset contains *words* and *nonwords*

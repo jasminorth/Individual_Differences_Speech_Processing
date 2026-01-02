@@ -48,7 +48,7 @@ Jasmin used the ARC nonword database from [Macquarie University (Sydney-Australi
 Both were combined and the resulting nonwords were then also manually checked to ensure that all aforementioned conditions were met.
 
 # Statistical Testing of the Dataset
-todo
+todo: ask which method is correct, add results and documentation
 
 
 

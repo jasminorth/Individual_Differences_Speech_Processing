@@ -33,16 +33,16 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 # Was gibt es hier sonst noch zu sehen?
 * background
   * preliminary literature review
-* dataset
+* dataset O
   * README.md: overview over dataset creation
   * dataset_creation.ipynb: code notebook used for dataset creation
   * experiment_stimuli_dataframe.csv: final dataset used in the experiment
-  * statistical_significance.R: code used for statistical testing of stimuli
-* experiment constituents
+  * statistical_significance.R: code used for statistical testing of stimuli O
+* experiment constituents O
   * LDT_Gruppe1_final.osexp: OpenSesame experiment
-  * todo:xxx
-* experiment raw data
-  * todo:xxx
+  * todo:xxx O
+* experiment raw data O
+  * todo:xxx O
  
 
 

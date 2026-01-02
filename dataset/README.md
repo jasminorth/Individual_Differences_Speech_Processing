@@ -1,5 +1,5 @@
 # Dataset creation
-The dataset contains *words* and *nonwords*
+The dataset contains *words* and *nonwords*.
 
 For *words*, we used code to automatically retrieve fitting stimuli, and for nonwords, we used a combination of manual nonword-creation (Han) and manual selection from a nonword database (Jasmin).
 Both were then manually checked by all team members to ensure that their respective stimuli conditions were met.
@@ -36,7 +36,7 @@ Conditions
   * correspond to formation rules of nouns in target language
 * length maximum 7 characters
 
-Han used manual perturbation of existing english words (*i think*), e.g., replacing characters in existing words, e.g., "trouble" $\to$ "trooble".
+Han used manual perturbation of existing english words (*i think? is that true?*), e.g., replacing characters in existing words, e.g., "trouble" $\to$ "trooble".
 Jasmin used the ARC nonword database from Macquarie University (Sydney-Australia: http://www.cogsci.mq.edu.au/research/resources/nwdb/nwdb.html), enabling:
 * only orthographically existing onsets
 * only orthographically existing bodies \

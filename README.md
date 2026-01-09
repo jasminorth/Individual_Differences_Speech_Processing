@@ -1,7 +1,7 @@
 
 
 
-# Was gibt es hier sonst noch zu sehen?
+# Structure
 * background: preliminary literature review
 * dataset
   * **README.md**: overview over dataset creation

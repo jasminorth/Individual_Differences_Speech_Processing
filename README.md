@@ -27,7 +27,7 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 * Experiment durchführen
 * die aktuelle Version des Experiments (Stand: 30.11.25, *final*) findet ihr hier auf GitHub
 
-> sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "LDT_Gruppe1_final")
+> sicherstellen, dass wir alle diese Version verwenden (Version: "LDT_Gruppe1_final")
 
 
 # Was gibt es hier sonst noch zu sehen?
